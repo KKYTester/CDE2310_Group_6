@@ -7,6 +7,7 @@
 This repository contains the software and documentation for our CDE2310 final project: an autonomous TurtleBot3-based warehouse delivery robot. The robot explores an unknown maze, detects delivery stations using ArUco markers, and autonomously delivers ping pong ball payloads.
 
 ## Mission Objectives
+AKSH BHATIA
 
 - **Phase 1:** Autonomous maze exploration using frontier-based navigation
 - **Phase 2:** Marker detection and payload delivery to Station A (static target)
